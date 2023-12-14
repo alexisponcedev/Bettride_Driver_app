@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034347022733",
+    "project_id": "bettride-50631",
+    "storage_bucket": "bettride-50631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034347022733:android:67ffc2856814bafdfc55c4",
+        "android_client_info": {
+          "package_name": "com.bettride.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90D-joLdYOwNaiQ8jAIjYqaKVicqcnTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034347022733:android:2db7d7e68ed1ee5dfc55c4",
+        "android_client_info": {
+          "package_name": "com.bettride.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC90D-joLdYOwNaiQ8jAIjYqaKVicqcnTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
